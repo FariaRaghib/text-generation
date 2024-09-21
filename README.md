@@ -4,6 +4,9 @@ This project demonstrates a web application that generates text using OpenAI's G
 ## Introduction
 Text generation is an essential task in natural language processing (NLP). This project utilizes GPT-2, a pre-trained language model by OpenAI, to generate human-like text based on user input. We built a web application using Flask that allows users to enter a prompt and receive generated text as output.
 
+![ML project Output](https://github.com/user-attachments/assets/57aa6026-6fac-4818-b04b-f6d2324af2cd)
+
+
 ## Features
 - Web-based interface to generate text using GPT-2.
 - Input a text prompt and specify the length of generated text.
