@@ -24,8 +24,9 @@ Make sure you have the following installed:
 - Pip\
 - A GPU setup (if available) for faster processing (optional).
 
-## Steps
-1. Clone the repository:
+## Steps:
+
+1.Clone the repository:
  ### git clone https://github.com/FariaRaghib/text-generation/new/main
  ### cd gpt2-text-generation
 
