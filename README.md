@@ -4,9 +4,6 @@ This project demonstrates a web application that generates text using OpenAI's G
 ## Introduction
 Text generation is an essential task in natural language processing (NLP). This project utilizes GPT-2, a pre-trained language model by OpenAI, to generate human-like text based on user input. We built a web application using Flask that allows users to enter a prompt and receive generated text as output.
 
-![ML project Output](https://github.com/user-attachments/assets/57aa6026-6fac-4818-b04b-f6d2324af2cd)
-
-
 ## Features
 - Web-based interface to generate text using GPT-2.
 - Input a text prompt and specify the length of generated text.
@@ -15,17 +12,17 @@ Text generation is an essential task in natural language processing (NLP). This 
 - Deployed with Flask.
   
 ## Technologies Used:
-Python: For scripting the backend logic.\
-Flask: Web framework for the user interface.\
-Transformers: Library to load and use the GPT-2 model.\
-Torch: For GPU/CPU model execution.
+- Python: For scripting the backend logic.\
+- Flask: Web framework for the user interface.\
+- Transformers: Library to load and use the GPT-2 model.\
+- Torch: For GPU/CPU model execution.
 
 ## Installation
 Make sure you have the following installed:
 
-Python 3.x\
-Pip\
-A GPU setup (if available) for faster processing (optional).
+- Python 3.x\
+- Pip\
+- A GPU setup (if available) for faster processing (optional).
 
 ## Steps
 1. Clone the repository:
@@ -52,6 +49,8 @@ This project uses the GPT-2 model, which is pre-trained on a large corpus of tex
 
 ## Results
 The web application successfully generates contextually relevant text based on user input. The application is capable of handling various text prompts and outputs coherent results within the specified maximum length.
+
+![ML project Output](https://github.com/user-attachments/assets/57aa6026-6fac-4818-b04b-f6d2324af2cd)
 
 ## Future Enhancements
 Control Generation Parameters: Add options for controlling parameters like temperature and seed for reproducibility.\
