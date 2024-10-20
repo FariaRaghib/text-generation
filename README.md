@@ -12,16 +12,16 @@ Text generation is an essential task in natural language processing (NLP). This 
 - Deployed with Flask.
   
 ## Technologies Used:
-- Python: For scripting the backend logic.\
-- Flask: Web framework for the user interface.\
-- Transformers: Library to load and use the GPT-2 model.\
+- Python: For scripting the backend logic.
+- Flask: Web framework for the user interface.
+- Transformers: Library to load and use the GPT-2 model.
 - Torch: For GPU/CPU model execution.
 
 ## Installation
 Make sure you have the following installed:
 
-- Python 3.x\
-- Pip\
+- Python 3.x
+- Pip
 - A GPU setup (if available) for faster processing (optional).
 
 ## Steps:
